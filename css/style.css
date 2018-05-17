@@ -1,0 +1,37 @@
+.hdr {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: block;
+  height: 70px;
+  width: 100%;
+  background: #057822;
+  z-index: 1;
+  margin-bottom: 10px;
+}
+.hdr p {
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
+.hdr img {
+  display: inline-block;
+  position: relative;
+  width: 40px;
+  text-align: center;
+}
+.hello-class {
+  margin-top: 25vh;
+}
+.hello-class .frst {
+  padding-left: 30vw;
+}
+.hello-class .frst p {
+  color: #17a60b;
+  font-size: 100px;
+}
+.resume {
+  display: block;
+  margin: 80px;
+}
